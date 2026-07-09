@@ -1,0 +1,4 @@
+emp_id,first_nm,last_nm,email,DOB,Gender,ph_num,hire_date,primary_skill,dept_nm,designation,management_level,ingest_timestamp,load_key
+E00001,Nathaniel,Taylor,jacobsuarez@example.net,1986-07-17,Male,9876540394,2010-09-19,Programming - Python,Software_Development,Senior Manager,6,2026-06-21 21:27:16.829740,LCK_20260621_212716_XAJI0Y
+E00002,  robert  ,Moore,diana95@example.net,1999-09-25,male,9876501234,2021-07-15,Server Admin - Linux,IT_Operations,Senior Manager,6,2026-06-21 21:27:16.829740,LCK_20260621_212716_XAJI0Y
+E00003,Diana,montoya,raymondjones@example.com,1995-05-10,Female,918765893338,2015-02-28,Data_Analysis - R,Data_Analytics,Senior Manager,6,2026-06-21 21:27:16.829740,LCK_20260621_212716_XAJI0Y
